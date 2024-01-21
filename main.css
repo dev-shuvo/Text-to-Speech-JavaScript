@@ -1,0 +1,23 @@
+#tts-app {
+  background: hsla(4, 84%, 49%, 1);
+  background: linear-gradient(
+    90deg,
+    hsla(4, 84%, 49%, 1) 0%,
+    hsla(37, 89%, 52%, 1) 100%
+  );
+  background: -moz-linear-gradient(
+    90deg,
+    hsla(4, 84%, 49%, 1) 0%,
+    hsla(37, 89%, 52%, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    90deg,
+    hsla(4, 84%, 49%, 1) 0%,
+    hsla(37, 89%, 52%, 1) 100%
+  );
+  width: 100%;
+  height: 100vh;
+}
+.card {
+  margin: 100px 0;
+}
